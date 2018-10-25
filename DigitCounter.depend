@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540511057 source:c:\users\allie\onedrive\desktop\digitcounter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
